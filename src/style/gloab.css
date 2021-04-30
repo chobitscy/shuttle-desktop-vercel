@@ -1,0 +1,9 @@
+.shadow {
+    box-shadow: 0 10px 40px -10px rgb(0 64 128 / 20%);
+    border-radius: 6px;
+}
+
+.gaussian-blur{
+    background: rgba(255,255,255,.7);
+    backdrop-filter: blur(10);
+}
